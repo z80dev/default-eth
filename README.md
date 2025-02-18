@@ -4,5 +4,5 @@
 
 ``` sh
 - src/default/
--- Policy.vy # module for implementing policies
+-- policy.vy # module for implementing policies
 ```
