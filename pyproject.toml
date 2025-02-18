@@ -1,0 +1,20 @@
+[project]
+name = "default-eth"
+version = "0.1.0"
+description = "A Vyper implementation of the Default Framework"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+license = { text = "MIT" }
+keywords = [
+  "library",
+  "ethereum",
+  "smart-contracts",
+  "evm",
+  "vyper",
+  "vyper-contracts",
+  "default"
+]
+authors = [
+    { name = "z80", email = "z80@ophy.xyz" }
+]
